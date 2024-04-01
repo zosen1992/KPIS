@@ -1,5 +1,8 @@
 Documentación, flujo proceso de captura de indicadores
 
+- Uso de las herramientas de MICROSOFT
+- POWER AUTOMATE, FORMS, POWERBI
+
 - Realización en FORMS de formato para captura que se requiere para guardar, condicionando las información a guardar de acuerdo al departamento correspondiente:
 
 <img src="https://i.postimg.cc/nzKK4VdM/Imagen1.png" width="600"/>
