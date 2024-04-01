@@ -2,7 +2,7 @@ Documentación, flujo proceso de captura de indicadores
 
 - Realización en FORMS de formato para captura que se requiere para guardar, condicionando las información a guardar de acuerdo al departamento correspondiente:
 
-<img src="[https://postimg.cc/S2szq4bp](https://i.postimg.cc/nzKK4VdM/Imagen1.png)" width="600"/>
+<img src="https://i.postimg.cc/nzKK4VdM/Imagen1.png" width="600"/>
 
 https://i.postimg.cc/Zqdxqxp8/Imagen2.png
 https://i.postimg.cc/fTR7dNYT/Imagen3.png
